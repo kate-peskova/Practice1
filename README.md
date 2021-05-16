@@ -1,4 +1,4 @@
-# Practice1
+# New Project
 Day 3 activity practice
 
-LET'S GO!!!
+![](images/flowers.jpeg)
