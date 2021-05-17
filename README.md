@@ -4,7 +4,7 @@ Day 3 activity practice
 ![](images/flowers.jpeg)
 
 ## Lisianthus
-Is a beautiful flower
+Is a very VERY beautiful flower!
 
 ### Description
 Lisianthuses look are often to be confused with roses, but they are not roses. Don't let them fool you.
